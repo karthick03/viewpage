@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">viewpage</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="activity_type">Splash screen</string>
     <string name="action_settings">Settings</string>
 </resources>
